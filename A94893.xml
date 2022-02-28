@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and authentick copy of the most horrid and stupendious oath, whereby the French king confirmed his alliance with the Turks faithfully translated from the French historiographer, Du Ribier, in his memoirs, whereof the Latin original is here annexed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94893</idno>
+            <idno type="STC">Wing T2414A</idno>
+            <idno type="STC">ESTC R42929</idno>
+            <idno type="EEBO-CITATION">38875954</idno>
+            <idno type="OCLC">ocm 38875954</idno>
+            <idno type="VID">152453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152453)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2297:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and authentick copy of the most horrid and stupendious oath, whereby the French king confirmed his alliance with the Turks faithfully translated from the French historiographer, Du Ribier, in his memoirs, whereof the Latin original is here annexed.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley, and are to be sold by R. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licens'd, Feb. 22. 1693 [i.e. 1694]. D. Poplar."</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English.</term>
+               <term>France --  Politics and government --  1643-1715 --  Humor.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152453:1" rendition="simple:additions"/>
+            <pb facs="tcp:152453:1" rendition="simple:additions"/>
+            <head>A True and Authentick COPY, Of the Form of The moſt Horrid and Stupendious OATH, WHEREBY The <hi>French King</hi> Confirmed his Alliance with the <hi>TURKS.</hi>
+            </head>
+            <head type="sub">Faithfully Tranſlated from the <hi>French</hi> Hiſtoriographer, <hi>Du Ribier,</hi> in his Memoirs, whereof the Latin Original is here annexed.</head>
+            <div type="oath">
+               <head>The True Form of the Oath.</head>
+               <p>BY the Great and High God, Merciful and Gracious, Maker of Heaven and Earth, and of all Things that are in them; and by the Holy Goſpel, by the Holy Baptiſm, by Saint <hi>John</hi> the Baptiſt, and by the Chriſtian Faith; I Promiſe and Swear, to Declare all Things I ſhall know, to the Moſt High Lord <hi>Sultan</hi>— whoſe Reign God be pleaſed to ſtrengthen; I will be a ſpecial Friend to his Friends, and an Enemy to his Enemies; I will be a Redeemer to the <hi>Turks</hi> Priſoners, from the hands of his Enemies, nothing ſhall be fraudulently done on my ſide. And in caſe I neglect to do it; I ſhall be an Apoſtate, and a Prevaricator againſt the Commands of the Holy Goſpel, and of the Chriſtian Faith; I will ſay the Goſpel is falſe; I will deny that Jeſus Chriſt is living, and that his Mother was a Virgin; I will ſlay a Hog upon the Font of the Baptiſm, and Curſe the Prieſts of the Altar; I will commit Fornication upon the Altar with Laſciviouſneſs, and receive upon my ſelf all the Curſes of the Holy Fa<g ref="char:EOLhyphen"/>thers. So help me God from his High Place.</p>
+            </div>
+            <div xml:lang="lat" type="translation_of_oath">
+               <head>Here follows the Original Copy in <hi>Latin.</hi>
+               </head>
+               <p>
+                  <hi>PER Deum Magnum &amp; Altum, Miſeri<g ref="char:EOLhyphen"/>cordem &amp; Benignum, Creatorem Coeli &amp; Terrae, &amp; omnium quae in eis ſunt, &amp; per Sancta haec Evangelia, per Sanctum Baptiſma, per Sanctum Johannem Baptiſtam, &amp; per Fidem Chriſtianorum, Promitto &amp; Juro, quod omnia quae novero, aperta erunt Altiſſimo Domino Sul<g ref="char:EOLhyphen"/>tano, — cujus Regnum Deus fortificet; Ero Amicus ſuorum unicus, &amp; inimicus inimicorum, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Redemptor Captivorum Turcarum ex vincu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Hoſtium ejus; nihil in mea parte fraudulen<g ref="char:EOLhyphen"/>tum erit. Quod ſi hoc neglexerim ero Apoſtata;</hi>
+               </p>
+               <p>
+                  <hi>Mandatorum Sancti Evangelii, Chriſtianaeque Fidei Praevaricator, dicam Evangelium falſum <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe, negabo Chriſtum vivere, &amp; Matrem ejus Vir<g ref="char:EOLhyphen"/>ginem fuiſſe; ſuper Fontem Baptiſmatis Porcum interficiam, &amp; Altaris Presbyteros maledicam; ſuper Altare Fornicabor cum Luxuria; &amp; San<g ref="char:EOLhyphen"/>ctorum Patrum maledictiones omnes in me reci<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iam. Ita me Deus reſpiciat ex alto.</hi>
+               </p>
+            </div>
+            <div type="response">
+               <p>GOod God! What a complication of Im<g ref="char:EOLhyphen"/>piety, Blaſphemy, Contradiction, Ex<g ref="char:EOLhyphen"/>travagancy, and Folly, is there in this <hi>Oath,</hi> and how Guilty are both thoſe, who Swear ſuch an <hi>Oath,</hi> and thoſe who preſcribe it to be Sworn!</p>
+               <p>We ſee by this <hi>Oath,</hi> the <hi>French</hi> King prays to <hi>God</hi> to proſper the <hi>Sultan's Reign;</hi> and en<g ref="char:EOLhyphen"/>gages to do his utmoſt endeavours to promote his Intereſts againſt his <hi>Enemies,</hi> who are the Chriſtians, and to be their <hi>Enemy</hi> in the <hi>Turks</hi> behalf; and <hi>in caſe he neglects to do it,</hi> he conſents to be <hi>an Apoſtate from the Chriſtian Faith;</hi> that is, unleſs he ſtrives with all his power to overthrow the <hi>Chriſtian Intereſt</hi> and <hi>Faith,</hi> and the <hi>Holy Goſpel, he will be an Apo<g ref="char:EOLhyphen"/>ſtate from the Chriſtian Faith. Nothing,</hi> ſays he, <hi>ſhall be fraudulently done on my ſide.</hi> How! can there be any thing more fraudulent and treacherous, than to call God for a Witneſs of ſuch an execrable <hi>Oath,</hi> contrived againſt God himſelf? Is it not a horrid fraud, to call the <hi>Goſpel</hi> and the <hi>Baptiſm Holy,</hi> and at the ſame time, to ſay, that in caſe he does not himſelf all what in him lies to deſtroy both; <hi>the Goſpel,</hi> and <hi>the Chriſtian Faith will be falſe.</hi> But we are much beholding to him for his Moderation, in <hi>committing</hi> only <hi>Fornication upon the Altar,</hi> tho' he does it <hi>with Laſcivi<g ref="char:EOLhyphen"/>ouſneſs,</hi> for he might as well for ought I know, have committed the Crime of <hi>Sodomy.</hi>
+               </p>
+               <p>A Prince, who offers to do ſuch Things as are mentioned in this <hi>Oath,</hi> in caſe he does not keep ſuch an abominable <hi>Oath,</hi> is guilty of all thoſe Crimes already; and does no better, than if he had ſaid, <hi>I Swear by the Moſt High God,</hi> to Kill <hi>my Father and my Mother, and all my Relations, and in caſe I do not perform my Vow, I am reſolved to ſay there is no God;</hi> ſuch is the Religion of <hi>the Moſt Chriſtian King.</hi>
+               </p>
+               <p>It was <hi>Francis</hi> the I. who, firſt of all the <hi>French</hi> Kings, took this aſtoniſhing <hi>Oath,</hi> as it is reported by the <hi>French</hi> Hiſtoriographer <hi>Du Ribier, in his Memoirs;</hi> he was then in<g ref="char:EOLhyphen"/>gaged in a War againſt <hi>Charles</hi> the Vth Empe<g ref="char:EOLhyphen"/>rour, ſo that he thought fit to make an Al<g ref="char:EOLhyphen"/>liance with the <hi>Turks,</hi> to get ſome Succour
+<pb facs="tcp:152453:2"/>from them; and indeed, they ſent a great Fleet and Army to help him, under the Com<g ref="char:EOLhyphen"/>mand of their Admiral and General <hi>Barba<g ref="char:EOLhyphen"/>roſſa,</hi> who Landed in <hi>France;</hi> and did in <hi>Provence</hi> and the County of <hi>Nyſſa</hi> great miſ<g ref="char:EOLhyphen"/>chiefs, more a great deal than to the Empe<g ref="char:EOLhyphen"/>ror's Subjects. <hi>Du Ribier</hi> reports, that none in the <hi>French</hi> King's Council oppoſed this <hi>Oath,</hi> but only <hi>Chancellor du Prat,</hi> who was mightily againſt it, but could not prevail, ſo that it was taken by <hi>Francis</hi> accordingly.</p>
+               <p>But it may be, ſome will ſay, tho <hi>Francis</hi> the Iſt. took that <hi>Oath,</hi> it is not certain, that <hi>Lewis</hi> the XIVth. has taken it, in making Al<g ref="char:EOLhyphen"/>liance with the <hi>Turks.</hi> I confeſs indeed, no Hiſtoriographer has relate <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as has been done of his Pred<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 'tis no wonder, for ſuch things are carefully kept ſecret during his Life, and ſhall not be known before his Death; Methinks there is little Reaſon to doubt he has done it alſo, or ſome other worſe, and this for the following Rea<g ref="char:EOLhyphen"/>ſons. 1ſt. It is the conſtant practice of all the Princes and States, when they have once prevailed upon another State to Treat an Alliance with them, upon Terms, and Forms, and Expreſſions Favourable, Advantagious, and Honourable to their own Party, never to change any thing of them in the following Treaties or Alliances with the ſame, unleſs there has been a great Change made alſo in the reſpective Fortunes of thoſe States, and that which was the leſs potent then, is become the more powerful or predominant. We do not ſee there has been any ſuch alteration or mutation made amongſt thoſe two great Nations, the <hi>French</hi> and the <hi>Turks;</hi> and this has certainly ſtill as great advantage now over <hi>Lewis</hi> the XIVth, as ſhe had over <hi>Francis</hi> the Iſt, when he took this <hi>Oath.</hi> 2. <hi>Francis</hi> the Iſt. was certainly, as appears by his Hiſtory, far leſs Ambitious, and a Better, and Greater Man in all reſpects, than <hi>Lewis</hi> the XIVth ever was. 3. There muſt needs be a horrid Ingagement between them, againſt the Chri<g ref="char:EOLhyphen"/>ſtians, ſince we ſee every year, what efforts the <hi>French</hi> King makes againſt <hi>Germany</hi> in the <hi>Turks</hi> behalf, and that the <hi>Turks</hi> perſiſt in continuing this War, ſo extremely ruinous to them, againſt their Cuſtom. But howe<g ref="char:EOLhyphen"/>ver it be, it can be eaſily proved, he has done much worſe in that reſpect, than his Prede<g ref="char:EOLhyphen"/>ceſſor ingaged to do, ſo that we cannot do him any injury, in thinking he has taken the ſame <hi>Oath,</hi> or a worſe one, if poſſible. For ſuppoſe <hi>Lewis</hi> the XIVth, has not taken the ſame <hi>Oath,</hi> yet it cannot be denyed, that he is more guilty, for having done without <hi>Oath,</hi> what <hi>Francis</hi> the Iſt, had ingaged by <hi>Oath</hi> to doe, but did not actually perform it. This took that <hi>Oath,</hi> Tranſported with a great Paſſion againſt <hi>Charles</hi> the Vth, Emperour, but the other does it in cold Blood. And we do not ſee by <hi>Francis</hi> his Hiſtory, he has done any great miſchief to Chriſtians, in be<g ref="char:EOLhyphen"/>half of the <hi>Turks,</hi> comparable to what <hi>Lewis</hi> the XIVth has done. 'Tis worſe ten times to commit a Crime without threatning; than to threaten without committing of it.</p>
+               <p>By all the Tenour of this preſent <hi>French</hi> King's Conduct, we ſee he has Sworn, I know not how many <hi>Oaths</hi> upon the <hi>Holy Goſpel</hi> and <hi>Baptiſm,</hi> in ſeveral Alliances and Trea<g ref="char:EOLhyphen"/>ties with moſt States in <hi>Europe,</hi> and with his own Subjects alſo, and has broken as many times his <hi>Oaths.</hi> This is as much as to ſay, the <hi>Goſpel</hi> and the <hi>Chriſtian Faith are falſe,</hi> and to <hi>deny that Chriſt is Living.</hi> When he does condemn one year by all his Univerſities, the <hi>Pope's Infallibility,</hi> and his <hi>Authority above the Council,</hi> his <hi>Power over the Temporals of Princes, and of Depoſing them when he pleaſes;</hi> and another year admits the <hi>ſame Infallibility of the Pope,</hi> and his <hi>Almighty Power</hi> both in <hi>Heaven and Earth, &amp;c.</hi> Is it not as much as to ſay, the <hi>Goſpel is falſe,</hi> and <hi>the Chriſtian Faith,</hi> a trifle? When he pretends to impoſe Laws upon Mens Conſciences, and force them to believe what he pleaſes, and will be called by the Name of <hi>Providence,</hi> of <hi>Immortal,</hi> of <hi>Divine Majeſty,</hi> is it not as much as to <hi>curſe the Goſpel and the Chriſtian Faith?</hi> As for his being a <hi>ſpecial Friend</hi> to the <hi>Turks, and an Enemy to his Enemies,</hi> every body knows what miſchiefs he has done to <hi>Germany,</hi> in behalf of the Infidels, and how he helps them with all kind of Officers and Engineers againſt the Emperour, the <hi>Polonians,</hi> and <hi>Venetians,</hi> and has exhauſted almoſt all the Mony of his Kingdom for their ſake, poſtponing his own Subjects Intereſt, to theirs, and treating them as Enemies to the <hi>Turks:</hi> So that 'tis evident, he muſt have taken his Predeceſſor's <hi>Oath</hi> with the <hi>Turks,</hi> or ſome other more execra<g ref="char:EOLhyphen"/>ble <hi>Oath,</hi> ſince he has done a great deal worſe, and is without Compariſon more Ambitious, and Irreligious than <hi>Francis</hi> the Iſt was, and ſtands in greater need of the <hi>Turks</hi> help, for his unjuſt Deſigns.</p>
+               <p>We have here alſo a true Character of the <hi>Turks</hi> Genius, who preſcribed the <hi>French</hi> King ſuch a Contradictory and Blaſphemous <hi>Oath,</hi> upon which they could not rely in the leaſt, if they had had any Honeſty or Judgment. For how could they imagine, that a Man profeſ<g ref="char:EOLhyphen"/>ſing himſelf to be a Chriſtian, and calling the <hi>Goſpel Holy,</hi> and <hi>the Baptiſm Holy,</hi> &amp;c. would oblige himſelf ſeriouſly and in earneſt, to deny all the Truths of the Goſpel, in caſe he failed himſelf of his word; that is, to believe that God ſhould be falſe, becauſe he ſhould have been falſe himſelf. For 'tis juſt the ſame, as if a Chriſtian Prince, did exact from the <hi>Sultan</hi> ſuch an <hi>Oath,</hi> whereby the <hi>Sultan</hi> ſhould Swear by his Holy <hi>Alchoran,</hi> and the Holy <hi>Mahometan</hi> Faith, and by his Great Prophet <hi>Mahomet,</hi> that he would be faithful to Chriſtians, in deſtroying the <hi>Mahometan</hi>'s Intereſt; and in caſe he did neglect to do it like a Knave, <hi>Mahomet</hi> would be a Knave alſo, and his <hi>Alchoran</hi> a Fable, and that he would hereafter Worſhip a Hog in his <hi>Moſque,</hi> and commit Adultery upon <hi>Mahomet</hi>'s Tomb. Certainly, no Man of any Honeſty or Judg<g ref="char:EOLhyphen"/>ment, would impoſe ſuch an <hi>Oath</hi> upon any other Man. The <hi>Turks</hi> did it only out of a blind and inveterate averſion they bear to the Chriſtian Religion; they pretended to raiſe thereby a great Triumph to <hi>Mahomet,</hi> over our Saviour. For how is it poſſible other<g ref="char:EOLhyphen"/>wiſe, to truſt to ſuch an <hi>Oath,</hi> which none but a Treacherous and Unworthy Man can take, of what Religion ſoever he may be?</p>
+               <p>Licens'd, <hi>Feb.</hi> 22. 1693. <hi>D. Poplar.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Bentley,</hi> and are to be Sold by <hi>R. Baldwin,</hi> 1694.</p>
+            <pb facs="tcp:152453:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
